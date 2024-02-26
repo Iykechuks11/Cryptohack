@@ -1,10 +1,11 @@
 ## I Learned more about modern cryptography by solving a series of interactive puzzles and challenges with CRYTOHACK.
+![alt text](images/image.png)
 
-This repo is a collection of my code snippets.
+This repo contained solutions to challenges I attempted.
 
-<ul> 
-    <li>Great Snakes</li>
-    <li>ASCII</li>
-</ul>
+- [Great SNAKES](great_snakes.py)
+- [ASCII](ascii.py)
+- [HEX](hex.py)
+- [BASE 64](base64.py)
 
 If you are interested in cryptography, check out [crytohack](https://cryptohack.org/)
