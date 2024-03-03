@@ -7,5 +7,6 @@ This repo contained solutions to challenges I attempted.
 - [ASCII](ascii.py)
 - [HEX](hex.py)
 - [BASE 64](base64.py)
+- [Bytes and Big Integers](big_int.py)
 
 If you are interested in cryptography, check out [crytohack](https://cryptohack.org/)
