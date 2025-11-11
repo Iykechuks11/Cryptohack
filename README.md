@@ -1,4 +1,4 @@
-## I Learned more about modern cryptography by solving a series of interactive puzzles and challenges with CRYTOHACK.
+### A series of interactive puzzles and challenges with CRYTOHACK.
 ![alt text](images/image.png)
 
 This repo contained solutions to challenges I attempted.
